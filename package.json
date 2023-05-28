@@ -1,0 +1,34 @@
+{
+  "name": "desafio-nodejs",
+  "version": "1.0.0",
+  "description": "express na pratica",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "lint": "eslint **/*.js --ignore-pattern node_modules/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoVale/express-concepts.git"
+  },
+  "author": "Pedro Gabriel Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoVale/express-concepts/issues"
+  },
+  "homepage": "https://github.com/GustavoVale/express-concepts#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "jade": "^1.9.2",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}

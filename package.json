@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GustavoVale/express-concepts.git"
+    "url": "git+https://github.com/PedroGabrielCB/express-concepts.git"
   },
   "author": "Pedro Gabriel Sousa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GustavoVale/express-concepts/issues"
+    "url": "https://github.com/PedroGabrielCB/express-concepts/issues"
   },
-  "homepage": "https://github.com/GustavoVale/express-concepts#readme",
+  "homepage": "https://github.com/PedroGabrielCB/express-concepts#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",

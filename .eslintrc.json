@@ -12,6 +12,7 @@
     },
     "rules": {
         "new-cap": 0,
+        "max-len": ["error", 300],
         "linebreak-style": ["error", "windows"]
     }
 }
